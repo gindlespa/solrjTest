@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/IndexBuilder41.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/deleteTimestamp.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/utils/indexHolder.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/Tests/UpdateIndexTest.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/MultiMainThread.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/FacetConfig.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/utils/GetKeidListFromIndex.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/utils/Corpus.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/mainSearch.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/Tests/AutoTest.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/Classify.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/MurphySearchAnalyzer.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/MultiMainInsert.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/SearchBarGraph.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/SearchResult.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/utils/LuceneUtil.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/Tests/SearchTest.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/MurphyAnalyzer.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/InsecureHttpClient.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/Highlight/PDFRedactionsByArea.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/iQueryHandler.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/utils/OutputPositions.java" />
+      <file url="file://$PROJECT_DIR$/src/com/solrjTest/indexbuilder41/SearchBarGraphJD.java" />
+    </excludeFromCompile>
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

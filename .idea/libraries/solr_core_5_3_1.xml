@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="solr-core-5.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-codec-1.10-bin/commons-codec-1.10/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jtds-1.3.1.jar!/" />
+      <root url="jar://C:/NetBeans/IndexBuilder/dist/IndexBuilder.jar!/" />
+      <root url="file://C:/NetBeans/IndexBuilder/dist/lib" />
+      <root url="jar://C:/NetBeans/tika-app-1.12.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/pdfbox-2.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/fontbox-2.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/pdfbox-app-2.0.0.jar!/" />
+      <root url="jar://C:/LocalGit/NetBeanProjects2/IndexBuilder410/dist/IndexBuilder410.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/NetBeans/IndexBuilder/dist/lib" recursive="false" />
+  </library>
+</component>
